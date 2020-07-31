@@ -1,0 +1,20 @@
+body {
+  margin-top: 0px;
+  background: #343a40;
+}
+.card-contact-form {
+  /*background: #343a40 !important;
+  color: #FFFFFF !important;*/
+}
+.orange-text {
+  color: #cc9c10 !important;
+}
+.fa-tag {
+ font-size: 15px;
+}
+.footer-icons {
+  font-size: 25px !important;
+}
+.ws-number {
+  font-size: 18px !important;
+}
